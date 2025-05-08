@@ -280,7 +280,7 @@ let people: [SelfIntroduction] = [
         job: "쿠팡 - iOS 개발자"
     ),
     SelfIntroduction(
-        name: "박동언",
+        name: "박동언(dongeon)",
         trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
         hobby: "운동, 음악 듣기",
         mbti: "ESTJ",
