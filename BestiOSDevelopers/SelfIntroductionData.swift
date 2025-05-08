@@ -151,11 +151,9 @@ let people: [SelfIntroduction] = [
     ),
     SelfIntroduction(
         name: "권도현",
-        trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
-        hobby: "음악 감상, 여행, 독서 등",
-<<<<<<< HEAD
+        trainingPurpose: "iOS 개발자가 되기 위한 훈련참여",
+        hobby: "음악 감상, 노래부르기, 게임 등",
         mbti: "ESTP",
->>>>>>> 482f1006b668e143beda8652e9cc3db5518b8b50
         strength: "끈기와 실행력",
         sns: nil,
         etc: "열심히 수료하고 취업하겠습니다!",
