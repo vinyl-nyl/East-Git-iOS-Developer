@@ -1,7 +1,7 @@
 let people: [SelfIntroduction] = [
     SelfIntroduction(
         name: "최정은",
-        trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
+        trainingPurpose: "iOS 강의 매니저님",
         hobby: "음악 감상, 여행, 독서 등",
         mbti: "INTJ",
         strength: "끈기와 실행력",
@@ -153,6 +153,9 @@ let people: [SelfIntroduction] = [
         name: "권도현",
         trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
         hobby: "음악 감상, 여행, 독서 등",
+<<<<<<< HEAD
+        mbti: "ESTP",
+>>>>>>> 482f1006b668e143beda8652e9cc3db5518b8b50
         strength: "끈기와 실행력",
         sns: nil,
         etc: "열심히 수료하고 취업하겠습니다!",
@@ -279,13 +282,13 @@ let people: [SelfIntroduction] = [
         job: "쿠팡 - iOS 개발자"
     ),
     SelfIntroduction(
-        name: "박동언",
+        name: "박동언 (수정됨)",
         trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
-        hobby: "운동, 음악 듣기",
-        mbti: "ESTJ",
-        strength: "끈기와 실행력",
+        hobby: "운동, 음악 듣기 (수정됨)",
+        mbti: "ESTJ (수정됨)",
+        strength: "끈기와 실행력 (수정됨)",
         sns: nil,
-        etc: "열심히 수료하고 취업하겠습니다!",
+        etc: "열심히 수료하고 취업하겠습니다! (수정됨)",
         job: "쿠팡 - iOS 개발자"
     ),
     SelfIntroduction(
