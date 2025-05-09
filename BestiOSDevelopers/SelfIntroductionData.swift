@@ -150,7 +150,7 @@ let people: [SelfIntroduction] = [
         job: "쿠팡 - iOS 개발자"
     ),
     SelfIntroduction(
-        name: "권도현",
+        name: "권도현(dohyun)",
         trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
         hobby: "음악 감상, 여행, 독서 등",
         strength: "끈기와 실행력",
@@ -279,7 +279,7 @@ let people: [SelfIntroduction] = [
         job: "쿠팡 - iOS 개발자"
     ),
     SelfIntroduction(
-        name: "박동언",
+        name: "박동언(dongeon)",
         trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
         hobby: "운동, 음악 듣기",
         mbti: "ESTJ",
@@ -341,7 +341,7 @@ let people: [SelfIntroduction] = [
     SelfIntroduction(
         name: "이준일",
         trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
-        hobby: "음악 감상, 여행, 독서 등",
+        hobby: "음악 감상, 야구 직관",
         mbti: "ISTJ",
         strength: "끈기와 실행력",
         sns: nil,
@@ -349,7 +349,7 @@ let people: [SelfIntroduction] = [
         job: "테슬라 - iOS 개발자"
     ),
     SelfIntroduction(
-        name: "양희정",
+        name: "양희정(jung)",
         trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
         hobby: "여행",
         mbti: "ENFP",
